@@ -1,0 +1,14 @@
+.break {
+    width: "83.33333%";
+    height: 20px;
+    color: black;
+}
+
+hr.solid {
+    border-top: 3px solid black;
+}
+
+.resume {
+    width: "83.33333333333%";
+    padding: 2px;
+}
